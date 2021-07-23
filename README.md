@@ -47,3 +47,5 @@ Here is a list of Tasks assigned and the end results using a Jupyter Notebook:
   * Average Purchase Total per Person by Age Group
 
 ![image](https://user-images.githubusercontent.com/73721626/126708627-58f682eb-f70e-4f1c-ae28-9c6068a6a5cf.png)
+![image](https://user-images.githubusercontent.com/73721626/126728154-c89b85ff-cfd8-455f-a7fb-96ee662d2f02.png)
+
