@@ -49,3 +49,24 @@ Here is a list of Tasks assigned and the end results using a Jupyter Notebook:
 ![image](https://user-images.githubusercontent.com/73721626/126708627-58f682eb-f70e-4f1c-ae28-9c6068a6a5cf.png)
 ![image](https://user-images.githubusercontent.com/73721626/126728154-c89b85ff-cfd8-455f-a7fb-96ee662d2f02.png)
 
+5. Analysis of Top Spenders
+* By ID 
+* By Purchase Count
+* Average Purchase Price
+* Total Purchase Value
+
+6. Analysis of Most Popular Items
+* Item ID
+* Item Name
+* Purchase Count
+* Item Price
+* Total Purchase Value
+
+7. Most Profitable Items
+* Item ID
+* Item Name
+* Purchase Count
+* Item Price
+* Total Purchase Value
+
+![image](https://user-images.githubusercontent.com/73721626/126729667-18844e9b-e8e1-450b-b610-7cbe542f6acb.png)
